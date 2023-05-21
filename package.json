@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@zetachain/addresses": "^0.0.9",
+    "@zetachain/addresses-tools": "^0.0.7",
+    "@zetachain/faucet-cli": "^2.0.1",
+    "@zetachain/interfaces": "^0.0.1",
+    "dotenv": "^16.0.3",
+    "envfile": "^6.18.0",
+    "hardhat": "^2.14.0"
+  }
+}
